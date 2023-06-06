@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wedding Cake",
+    "price": "1000/kg",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./cake.png"
+  },
+  {
+    "name": "Chocolate Cake",
+    "price": "50",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./cake2.jpg"
+  },
+  {
+    "name": "Mini Cake",
+    "price": "100",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./cake3.jpg"
+  },
+  {
+    "name": "Donut",
+    "price": "100",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./donut.png"
+  },
+  {
+    "name": "Waffle",
+    "price": "200",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./waffle.jpg"
+  },
+  {
+    "name": "Pan cake",
+    "price": "90",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./cake4.jpg"
+  }
+]

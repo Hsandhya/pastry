@@ -1,0 +1,23 @@
+.h-wrapper
+{
+    color: black;
+    background-color: #D81082;
+}
+.h-container
+{
+    justify-content: space-between;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+.h-list
+{
+    gap: 2rem;
+    font-size: 17px;
+    color: white;
+    
+}
+.img
+{
+    height: 3.5rem;
+    width: 7rem;
+}

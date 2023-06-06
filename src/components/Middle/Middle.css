@@ -1,0 +1,88 @@
+.m-wrapper
+{
+    background: rgb(255,238,237);
+background: linear-gradient(90deg, rgba(255,238,237,1) 0%, rgba(255,211,211,1) 57%);
+}
+
+.m-container
+{
+    height:  100vh;
+    width: 100%;
+}
+
+.m-container>div
+{
+    flex: 1;
+}
+
+.m-right
+{
+    gap: 0.5rem;
+}
+.accordion
+{
+    margin-top: 2rem;
+    
+}
+
+.accordionItem
+{
+    background: rgb(255,243,254);
+    background: linear-gradient(90deg, rgba(255,243,254,0.8766542749912465) 0%, rgba(255,212,244,1) 57%);
+    margin-bottom: 1rem;
+}
+
+.accordionButton
+{
+    background: rgb(255,59,164);
+background: linear-gradient(90deg, rgba(255,59,164,1) 0%, rgba(245,209,255,1) 50%, rgba(255,114,213,0.9774946111257002) 100%);
+    cursor: pointer;
+    padding: 0.5rem;
+    
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+
+
+.icon 
+{
+    
+    padding: 1.5px;
+    background: #ffc8e1;
+    border-radius: 5px;
+}
+
+.Text
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(246, 22, 112);
+}
+
+.m-right .pinkText
+{
+    font-size: 25px;
+}
+
+.Text2
+{
+    padding-top: 1rem;
+}
+
+.img-container
+{
+    height: 33rem;
+    width: 33rem;
+    padding-left: 3rem;
+    
+    
+}
+
+.img-container>img
+{
+  height: 470px;
+  border-radius:300px 300px 0 0;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  border: 0.1rem solid rgb(162, 162, 162);
+}

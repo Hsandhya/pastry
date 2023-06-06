@@ -1,0 +1,115 @@
+.l-wrapper
+{
+    height: 100vh;
+    background: rgb(255,194,236);
+    background: linear-gradient(90deg, rgba(255,194,236,1) 0%, rgba(255,214,235,1) 50%, rgba(255,197,237,1) 100%);
+}
+
+.l-container
+{
+    justify-content: space-between;
+}
+.l-container>div{
+    flex:1;
+}
+.image>img
+{
+    height: 450px;
+    border-radius: 500px 500px 0 0;
+    margin-top: 1.5rem;
+    
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+.image
+{
+  height: 30rem;
+  width: 30rem;
+  padding-left: 6rem;
+ 
+}
+
+.row
+{
+    gap: 1rem;
+}
+
+.Icon 
+{
+    
+    padding: 1.5px;
+    
+    border-radius: 5px;
+}
+
+.T1
+{
+    font-size: 17px;
+}
+
+.l-container>div
+{
+    gap: 0.6rem;
+}
+
+.mode
+{
+    border: 1px solid black;
+    width: 13rem;
+    padding: 0.8rem;
+    border-radius: 3px;
+    background-color: antiquewhite;
+    margin-top: 1rem;
+    gap: 1rem;
+    display: flex;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+
+.mode:hover
+{
+    scale: 1.1;
+    transition: all 400ms ease;
+}
+
+.detail
+{
+    padding-left: 1rem;
+}
+
+.b1
+{
+  
+  background: rgb(255,182,220);
+background: linear-gradient(0deg, rgba(255,182,220,1) 0%, rgba(255,212,235,1) 66%);
+
+  color: black;
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid black;
+  width: 100%;
+  
+
+}
+.b1:hover
+{
+  scale: 0.8;
+}
+
+.first
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(246, 22, 112);
+}
+
+.second
+{
+    font-size: 20px;
+}
+
+.l-left
+{
+    margin-left: 3rem;
+    margin-top: 1rem;
+}

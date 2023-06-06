@@ -1,0 +1,32 @@
+.v-wrapper
+{
+    background: rgb(255,243,254);
+background: linear-gradient(90deg, rgba(255,243,254,0.8766542749912465) 0%, rgba(255,243,254,1) 57%);
+height: 55vh;
+}
+
+
+
+.v-heading
+{
+    font-weight: 150px;
+    font-size: 30px;
+   
+    padding-top: 3.5rem;
+
+}
+
+.v-images>img
+{
+    height: 10rem;
+    width: 13rem;
+    padding-top: 4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.v-images>img:hover
+{
+    scale: 1.2;
+    filter: brightness(20%);
+}
